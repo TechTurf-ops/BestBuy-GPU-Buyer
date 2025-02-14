@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Checks stock status, clicks 'Add to Cart' if available, refreshes if out of stock, opens URL when button is clicked
-// @author       You
+// @author      TechTurf
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
