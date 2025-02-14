@@ -1,6 +1,4 @@
-Here’s a description you can use for your GitHub repository:
 
----
 
 # Simplified Stock Notifier  
 
