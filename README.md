@@ -1,6 +1,6 @@
 
 
-# Simplified Stock Notifier  
+# Simplified Stock Notifier  (Working in 2025)
 
 A lightweight **Tampermonkey user script** that automates stock checking and purchasing.  
 
