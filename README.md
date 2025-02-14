@@ -12,7 +12,7 @@ A lightweight **Tampermonkey user script** that automates stock checking and pur
 
 ## How It Works  
 - The script searches for common **"Out of Stock"** indicators.  
-- If the item is available, it **clicks the purchase button** and opens a new URL.  
+- If the item is available, it **clicks the purchase button** and opens a  Youtube video.  
 - If out of stock, the page **refreshes automatically** every 2 seconds.  
 
 ## Installation  
