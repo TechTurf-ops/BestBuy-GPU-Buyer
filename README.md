@@ -1,4 +1,4 @@
-![Stock Notifier](Logo.png)
+![Stock Notifier](logo.png)
 
 # Simplified Stock Notifier  (Working in 2025)
 
