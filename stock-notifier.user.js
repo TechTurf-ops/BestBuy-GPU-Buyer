@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Checks stock status, clicks 'Add to Cart' if available, refreshes if out of stock, opens URL when button is clicked
-// @author        Tecjruf
+// @author       You
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
@@ -33,12 +33,12 @@
     }
 
     function checkStockAndClick() {
-        const keywords = ["Out of Stock", "Sold Out", "Unavailable"];
+        const keywords = ["Out of Stock", "Sold Out", "Unavailable", "Coming Sooon"];
         const isOutOfStock = keywords.some(keyword => document.body.innerText.includes(keyword));
 
         if (isOutOfStock) {
             console.log("Item out of stock! Refreshing...");
-            setTimeout(() => location.reload(), 2000);
+            setTimeout(() => location.reload(), 1000);
         } else if (!addToCartClicked) {
             const addToCartXPath = '/html/body/div[4]/main/div[6]/div/div/div/div/div/div/div[7]/div[1]/div/div[15]/div[1]/div/div/div/div/div/button';
             waitForElement(addToCartXPath, (button) => {
