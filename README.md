@@ -20,7 +20,7 @@ A lightweight **Tampermonkey user script** that automates stock checking and pur
 2. Add this script to Tampermonkey.  
 3. Navigate to an Best Buy and let the script handle stock monitoring!  
 ## Dependencies
-- Sign in to your Best Buy account. (Some products need you to be signed in to your account to buy)
+- Sign in to your Best Buy account. (Some products need you to be signed in to your account to purchase the product)
 ## Disclaimer  
 This script is for **educational purposes** only. Use it responsibly and ensure compliance with website terms of service.  
 
