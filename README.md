@@ -8,7 +8,7 @@ A lightweight **Tampermonkey user script** that automates stock checking and pur
 - Monitors stock availability on any website.  
 - Clicks the **"Add to Cart"** button automatically if an item is in stock.  
 - Refreshes the page if the item is **out of stock**.  
-- Opens a specified URL after adding the item to the cart.  
+- Opens a Youtube video after adding the item to the cart to wake you up.(You can change the video)
 
 ## How It Works  
 - The script searches for common **"Out of Stock"** indicators.  
