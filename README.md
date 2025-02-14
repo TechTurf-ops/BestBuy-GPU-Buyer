@@ -1,4 +1,4 @@
-implified Stock Notifier
+Simplified Stock Notifier
 A lightweight Tampermonkey user script that automates stock checking and purchasing.
 
 Features
