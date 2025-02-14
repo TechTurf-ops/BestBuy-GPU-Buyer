@@ -1,8 +1,8 @@
-![Stock Notifier](logo.png)
-
 # Simplified Stock Notifier  (Working in 2025)
 
-A lightweight **Tampermonkey user script** that automates stock checking and purchasing.  
+A lightweight **Tampermonkey user script** that automates stock checking and purchasing
+
+![Stock Notifier](logo.png)
 
 ## Features  
 - Monitors stock availability on any website.  
