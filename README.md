@@ -18,7 +18,7 @@ A lightweight **Tampermonkey user script** that automates stock checking and pur
 ## Installation  
 1. Install [Tampermonkey](https://www.tampermonkey.net/) on your browser.  
 2. Add this script to Tampermonkey.  
-3. Navigate to an online store and let the script handle stock monitoring!  
+3. Navigate to an Best Buy and let the script handle stock monitoring!  
 
 ## Disclaimer  
 This script is for **educational purposes** only. Use it responsibly and ensure compliance with website terms of service.  
